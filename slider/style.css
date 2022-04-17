@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;0,800;1,400;1,700;1,800&display=swap');
+
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+
+
+body {
+    background: #23262a;
+    font-family: "Open Sans", "Noto Sans", HelveticaNeueCyr, Helvetica, sans-serif;
+    font-size: 11pt;
+    overflow-x: hidden;
+}
+.container{
+	padding: 10rem 3rem;
+}
+
+
+.item{
+    margin-right: 2rem;
+    
+}
+
+.item-card{
+    margin-right: 2rem;
+    width: 300px;
+    height: 250px;
+    // position: absolute;
+
+}
+.item-img{
+    position: absolute;
+    
+}
+.item-img img{
+	width: 300px;
+    height: 250px;
+    border-radius: 20px;
+}
+
+.item-title{
+    font-size: 30px;
+    color: #fff;
+    font-weight: bold;
+    position: relative;
+    top: 10rem;
+    left: 8rem;
+    
+}
