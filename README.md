@@ -7,3 +7,5 @@
 #### Customs checkbox ---- https://akmahim.github.io/Front-end-components-build-up/customs%20checkbox/
 
 #### Card hover ---- https://akmahim.github.io/Front-end-components-build-up/card-hover-effect/
+
+### Slider using slick slider ---- https://akmahim.github.io/Front-end-components-build-up/slider/
